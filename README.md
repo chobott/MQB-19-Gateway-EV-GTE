@@ -6,8 +6,14 @@ Repository about customization for MQB platform gateway special for GTE Vehicles
 - 3Q0907530D =    FL GW MQB EV
 
 ## Coresponding SW
+preFL - Only hardware index "A" firmware series 32xx for EV vehicles
 
-Only hardware index "D" firmware series 63xx for EV vehicles
+- 5QE907530C  (3203)
+- 5QE907530D  (3226)
+- 5QE907530E  (3245)
+- 5QE907530F  (3265)
+
+FL - Only hardware index "D" firmware series 63xx for EV vehicles
 
 - 3Q0907530H  (6305)
 - 3Q0907530M  (6322)
