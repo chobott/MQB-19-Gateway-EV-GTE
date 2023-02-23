@@ -1,4 +1,4 @@
-# MQB-19-Gateway
+# MQB Gateway for EV / GTE / PHEV / eGolf
 Repository about customization for MQB platform gateway special for GTE Vehicles
 
 ## Requirements HW
