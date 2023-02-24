@@ -1,8 +1,8 @@
 # MQB Gateway for EV / GTE / PHEV / eGolf
-Repository about customization for MQB platform gateway special for GTE Vehicles
+Repository about Firmware and Dataset for MQB EV / PHEV / GTE platform special for upgrade MIB1 to MIB2 and GTE mode problems
 
 ## Requirements HW
-- 5QE907530A = preFL GW MQB EV (PHEV)
+- 5QE907530A = preFL GW MQB EV
 - 3Q0907530D =    FL GW MQB EV
 
 ## Coresponding SW
@@ -19,6 +19,7 @@ FL - Only hardware index "D" firmware series 63xx for EV vehicles
 - 3Q0907530M  (6322)
 - 3Q0907530R  (6346)
 - 3Q0907530AD (6383)
+- 3Q0907530AH (6422)
 
 
 ## About datasets
