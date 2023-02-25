@@ -8,8 +8,10 @@ Repository about Firmware and Dataset for MQB EV / PHEV / GTE platform special f
 ## Coresponding SW
 preFL - Only hardware index "A" firmware series 32xx for EV vehicles
 
+- 5QE907530A  (3166)
+- 5QE907530B  (3186, 3187)
 - 5QE907530C  (3203)
-- 5QE907530D  (3226)
+- 5QE907530D  (3225, 3226)
 - 5QE907530E  (3245)
 - 5QE907530F  (3265)
 
