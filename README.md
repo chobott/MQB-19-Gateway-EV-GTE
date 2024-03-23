@@ -23,6 +23,9 @@ FL - Only hardware index "D" firmware series 63xx for EV vehicles
 - 3Q0907530AD (6383)
 - 3Q0907530AH (6422)
 
+## ECU flash for solving RPM display issue
+
+The left clock of the AID isn't working after a retrofit to a non-facelift MK7 GTE, so no RPM display. To fix this, flash engine firmware version 04E906023 AS 3441 to the ECU.
 
 ## About datasets
 
